@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+body {
+	background-color: paleturquoise;
+}
+#introduccion{
+	background-color: lightseagreen;
+}
+.header2{
+	background-color: #5F9EA0;
+}
+.texto{
+	background-color: lightblue;
+}
+.textoheader2{
+	color: dimgray;
+	text-decoration: underline;
+}
+.header3{
+	background-color: gainsboro;
+}
+.textoheader3{
+	color: dimgray;
+}
+.azulclaro{
+	color: blue;
+}
+.azulclaro2{
+	color: deepskyblue;
+}
+footer{
+	background-color: white;
+}
+#textofooter{
+	font-weight: bold;
+	text-align: right;
+}
